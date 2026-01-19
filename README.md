@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe — Smart AI Edition
 
-A modern, beautifully styled **Tic Tac Toe game** built with **React**, featuring both **Two-Player mode** and an **Unbeatable AI powered by the Minimax algorithm**.
+A modern, beautifully styled **Tic Tac Toe game** built with **React**, featuring both **Two-Player mode**, **Player Vs Computer (Easy)** and an **Unbeatable AI powered by the Minimax algorithm**.
 
 This project focuses on **clean component architecture**, **game logic correctness**, and **engaging user experience**.
 
@@ -15,6 +15,7 @@ This project focuses on **clean component architecture**, **game logic correctne
   * AI uses **Minimax algorithm** (perfect play)
   * Impossible to beat 😈
 * **Two-Player Mode**
+* **Easy Mode against Computer**
 
   * Play locally with a friend
   * Randomized starting player
@@ -42,7 +43,6 @@ This project focuses on **clean component architecture**, **game logic correctne
 * **JavaScript (ES6+)**
 * **CSS3 (Glassmorphism + Animations)**
 
-No external libraries.
 Everything is built **from scratch**.
 
 ---
